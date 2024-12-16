@@ -1,0 +1,8 @@
+pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install tifffile h5py  -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+seaborn
+scipy
+opencv-python
+tifffile
+h5py
